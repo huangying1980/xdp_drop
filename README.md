@@ -8,3 +8,4 @@ high performance packet drop base on xdp
 ## 运行
 查看帮助信息
 * xdrop help
+#### huangying, hy_gzr@163.com
